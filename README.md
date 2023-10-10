@@ -1,1 +1,1 @@
-# GroupProject
+# GroCalc
