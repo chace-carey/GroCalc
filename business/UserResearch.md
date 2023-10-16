@@ -9,3 +9,7 @@ like ours.
 ## Observation 2 - Nick Tremblay 
 
 The majority of those surveyed stated that they have difficulties tracking grocery costs. Of those who have roomates or housemates, **89.9%** replied "Yes" to the question, *Do you sometimes have difficulties keeping track of who needs to pay for what?*
+
+## Observation 3 - Chace Carey
+
+In response to the question *Do you currently use any apps to help you divide grocery costs?* **100%** of responses said "No". This tells us that there is no competion to our app that is known, giving it unique value.
