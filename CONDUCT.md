@@ -57,3 +57,11 @@ other whenever they arise, and then be able to work out these problems through c
 We encourage people to bring up problems with each other and commend group members when they
 did a good job.
 
+## Diversity, Equity, and Inclusion
+
+In order to make sure everyone feels included and safe within our group, our team will make sure
+to reach out to team members that don't seem to be contributing or seem timid while contributing
+to ensure this person knows they are welcome and apperciated. Or, if someone feels as if one
+person is starting to discriminate, isolate, or overpower one of the members of the group, then
+we encourage that person to call it out within group discussions in order to solve the problem
+and not allow it to linger. 
