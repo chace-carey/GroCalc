@@ -27,13 +27,20 @@ As a user I want to be able to see my groceries and roomates from any device so 
 - An existing user can see their roomates, groceries, and total from any device on which they're logged in
 
 ## User Story #5
+As a user I want to be able to sign up and sign in to GroCalc with an email and password so that I can have personalized saved data
+
+## Acceptance Criteria
+- Save all user information to firebase backend
+- Personalize UI/UX based on saved user information
+
+## User Story #6
 As an administrator I want to be able to access the database in order to edit, delete, or block user accounts. No later then October 23,2023
 
 ## Acceptance Criteria
 - A person able to access the firebase is able to see users within the database and easily
 edit the desired user's information.
 
-## User Story #6
+## User Story #7
 As a user I want to setup names so i can refrence who needs to pay what. No later then October 23, 2023
 
 ## Acceptence Criteria
