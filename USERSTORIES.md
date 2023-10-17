@@ -24,4 +24,11 @@ As an administrator I want to be able to display ads and collect ad revenue on g
 As a user I want to be able to see my groceries and roomates from any device so that I can calculate grocery costs from anywhere 
 
 ## Acceptence Criteria
-- An existing user can see their roomates, groceries, and total from any device on which they're logged in 
+- An existing user can see their roomates, groceries, and total from any device on which they're logged in
+
+## User Story #5
+As an administrator I want to be able to access the database in order to edit, delete, or block user accounts
+
+## Acceptance Criteria
+- A person able to access the firebase is able to see users within the database and easily
+edit the desired user's information.
