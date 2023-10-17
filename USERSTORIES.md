@@ -2,9 +2,9 @@
 As a user I want to be able to have a UI/UX to cleanly navigate through the sign up, sign in, and main app screens. No later then October 23, 2023
 
 ## Acceptence Criteria
-* Should have a screen for sign up, sign in, and main app usage
-* App should be themed appropriately 
-* Logo should be displayed on all screens 
+* Simple UI: Sign in and sign up button that logs user in then sends them into GroCalc App
+* Place product logo on all screens in order to brand the GroCalc app
+* Create a good color theme for the app in order to make GroCalc appealing
 
 ## User Story #2
 As a user I want to be able to sign up and sign in to GroCalc with an email and password so that I can have personalized saved data. No later then October 23,2023
