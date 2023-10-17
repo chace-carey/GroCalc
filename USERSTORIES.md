@@ -1,12 +1,10 @@
 ## User Story #1
-As a user I want to be able to have a UI/UX to navigate and sign into the app no later then October 23, 2023
+As a user I want to be able to sign up and sign in to GroCalc with an email and password so that I can have personalized saved data. No later then October 23,2023
 
-## Acceptence Criteria
-- Simple UI: Sign in Button that logs user in then sends them into GroCalc App
-* Save User Data: Initial data saved should be login
-* Themed Color for Screen's
-* Logo Addition 
-
+## Acceptance Criteria
+- Save all user information to firebase backend
+- Button that logs user in then sends them into GroCalc App
+- Personalize UI/UX based on saved user information
 
 ## User Story #2
 As a user I want to be able to evenly divide a cost amoung people so each one of my roomates pays their fair share no later then October 23, 2023
@@ -29,11 +27,12 @@ As a user I want to be able to see my groceries and roomates from any device so 
 - An existing user can see their roomates, groceries, and total from any device on which they're logged in
 
 ## User Story #5
-As a user I want to be able to sign up and sign in to GroCalc with an email and password so that I can have personalized saved data. No later then October 23,2023
+As a user I want to be able to have a UI/UX to cleanly navigate through the sign up, sign in, and main app screens. No later then October 23, 2023
 
-## Acceptance Criteria
-- Save all user information to firebase backend
-- Personalize UI/UX based on saved user information
+## Acceptence Criteria
+- Should have a screen for sign up, sign in, and main app usage
+* App should be themed appropriately 
+* Logo should be displayed on all screens 
 
 ## User Story #6
 As an administrator I want to be able to access the database in order to edit, delete, or block user accounts. No later then October 23,2023
