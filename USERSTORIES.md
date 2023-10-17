@@ -11,8 +11,8 @@ As a user I want to be able to sign up and sign in to GroCalc with an email and 
 
 ## Acceptance Criteria
 - Save all user information to firebase backend
-- Button that logs user in then sends them into GroCalc App
-- Personalize UI/UX based on saved user information
+* Button that logs user in then sends them into GroCalc App
+* Personalize UI/UX based on saved user information
 
 ## User Story #3
 As a user I want to be able to evenly divide a cost amoung people so each one of my roomates pays their fair share no later then October 23, 2023
