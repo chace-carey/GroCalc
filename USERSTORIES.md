@@ -4,6 +4,8 @@ As a user I want to be able to have a UI/UX to navigate and sign into the app no
 ## Acceptence Criteria
 - Simple UI: Sign in Button that logs user in then sends them into GroCalc App
 * Save User Data: Initial data saved should be login
+* Themed Color for Screen's
+* Logo Addition 
 
 
 ## User Story #2
