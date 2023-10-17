@@ -33,7 +33,7 @@ As an administrator I want to be able to access the database in order to edit, d
 - A person able to access the firebase is able to see users within the database and easily
 edit the desired user's information.
 
-##User Story #6
+## User Story #6
 As a user I want to setup names so i can refrence who needs to pay what. No later then October 23, 2023
 
 ## Acceptence Criteria
