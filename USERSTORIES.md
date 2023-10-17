@@ -2,7 +2,7 @@
 As a user I want to be able to have a UI/UX to cleanly navigate through the sign up, sign in, and main app screens. No later then October 23, 2023
 
 ## Acceptence Criteria
-- Should have a screen for sign up, sign in, and main app usage
+* Should have a screen for sign up, sign in, and main app usage
 * App should be themed appropriately 
 * Logo should be displayed on all screens 
 
