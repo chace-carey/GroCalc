@@ -38,4 +38,4 @@ As a user I want to be able to see my groceries and roomates from any device so 
 As a user I want to setup names so i can refrence who needs to pay what. No later then October 23, 2023
 
 ## Acceptence Criteria
--A person is able to divide up cost equally with names above each division 
+- A person is able to divide up cost equally with names above each division 
