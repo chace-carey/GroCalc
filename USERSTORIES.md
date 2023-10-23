@@ -47,8 +47,9 @@ As a user I want to add items into a list in order to display what will be purch
 - A person is able to add items which will be displayed on screen
 
 ## User Story #8
-As a user I want to be able to search up my roommates names and add them as a friend.
+As a user I want to be able to search up my roommates names and add them as a friend in order to edit and view the same list.
 
 ## Acceptence Criteria
 - A person is able to add a friend and both users are able to see eachother on their devices
 - A person is able to add items being split between the now added friend
+- A person is able to see the list created by a friend
