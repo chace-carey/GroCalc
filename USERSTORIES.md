@@ -45,6 +45,7 @@ As a user I want to add items into a list in order to display what will be purch
 
 ## Acceptence Criteria
 - A person is able to add items which will be displayed on screen
+- Items are saved to backend
 
 ## User Story #8
 As a user I want to be able to search up my roommates names and add them as a friend in order to edit and view the same list. No later then October 30, 2023.
