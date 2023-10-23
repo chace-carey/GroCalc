@@ -15,14 +15,14 @@ As a user I want to be able to sign up and sign in to GroCalc with an email and 
 * Personalize UI/UX based on saved user information
 
 ## User Story #3
-As a user I want to be able to evenly divide a cost amoung people so each one of my roommates pays their fair share no later then October 23, 2023.
+As a user I want to be able to evenly divide a cost amoung people so each one of my roommates pays their fair share no later then October 30, 2023.
 
 ## Acceptence Criteria
 - Cost Divider: Complete cost of groceries and a selection of how many people will split the price, Should display price split evenly
 * Save User Data: Save divided amount between sessions
 
 ## User Story #4
-As an administrator I want to be able to display ads and collect ad revenue on grocalc so that GroCalc can collect ad revenue. No later then November 6, 2023.
+As an administrator I want to be able to display ads and collect ad revenue on grocalc so that GroCalc can collect ad revenue. No later then November 13, 2023.
 
 ## Acceptence Criteria
 - Ads appear on the grocalc app
@@ -48,7 +48,7 @@ As a user I want to add items into a list in order to display what was purchased
 - Items are saved to backend
 
 ## User Story #8
-As a user I want to be able to search up my roommates names and add them as a friend in order to edit and view the same list. No later then October 30, 2023.
+As a user I want to be able to search up my roommates names and add them as a friend in order to edit and view the same list. No later then November 6, 2023.
 
 ## Acceptence Criteria
 - A person is able to add a friend and both users are able to see eachother on their devices
