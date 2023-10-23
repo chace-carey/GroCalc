@@ -44,4 +44,11 @@ As a user I want to setup roommates names so that I can refrence who needs to pa
 As a user I want to add items into a list in order to display what will be purchased and what costs need to be divided. No later then October 23, 2023
 
 ## Acceptence Criteria
-- A person is able to add items which will be displayed on screen 
+- A person is able to add items which will be displayed on screen
+
+## User Story #8
+As a user I want to be able to search up my roommates names and add them as a friend.
+
+## Acceptence Criteria
+- A person is able to add a friend and both users are able to see eachother on their devices
+- A person is able to add items being split between the now added friend
