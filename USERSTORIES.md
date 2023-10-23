@@ -41,7 +41,7 @@ As a user I want to setup roommates names so that I can refrence who needs to pa
 - A person is able to divide up cost equally with names above each division
 
 ## User Story #7
-As a user I want to add items into a list in order to display what will be purchased and what costs need to be divided. No later then October 30, 2023.
+As a user I want to add items into a list in order to display what was purchased and what costs need to be divided. No later then October 30, 2023.
 
 ## Acceptence Criteria
 - A person is able to add items which will be displayed on screen
