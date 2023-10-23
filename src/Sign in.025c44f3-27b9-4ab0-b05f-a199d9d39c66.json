@@ -61,6 +61,71 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
+                "Text": "",
+                "FontSize": 18,
+                "CustomFont": "",
+                "LineHeight": 1,
+                "Color": "rgba(0, 0, 0, 1)",
+                "Height": 97,
+                "Width": 375,
+                "Visible": true,
+                "X": 0,
+                "Y": 570,
+                "RelativeX": 0,
+                "RelativeY": 570,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "color": "rgba(0, 0, 0, 1)",
+                    "fontSize": 18,
+                    "fontStyle": "normal",
+                    "textShadowOffset": {},
+                    "letterSpacing": 0,
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textDecorationColor": "rgba(0, 0, 0, 1)",
+                    "writingDirection": "auto",
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "flexWrap": "wrap",
+                    "borderWidth": 0,
+                    "borderRadius": 0,
+                    "borderColor": "rgba(236, 237, 237, 1)",
+                    "borderStyle": "solid",
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "18.266666666666666%",
+                    "top": "84.91613568215892%",
+                    "lineHeight": 1,
+                    "display": "flex"
+                },
+                "ParentId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66",
+                "position": "absolute",
+                "edgeOffsets": 570,
+                "children": ""
+            },
+            "children": [],
+            "id": "1502e15e-9b54-41c3-8043-e872757f2e7f",
+            "thunkableVersion": 425,
+            "name": "Error_Label8"
+        },
+        {
+            "type": "Label",
+            "translatedName": "Label",
+            "reactType": "Text",
+            "properties": {
                 "Text": "Remember Me",
                 "FontSize": 18,
                 "CustomFont": "",
@@ -336,59 +401,6 @@
             "name": "Button2"
         },
         {
-            "type": "Button",
-            "translatedName": "Button",
-            "properties": {
-                "Text": "Forgot Password?",
-                "TextColor": "#FFFFFF",
-                "FontSize": 16,
-                "CustomFont": "",
-                "BackgroundColor": "rgba(110, 185, 255, 1)",
-                "Height": 39,
-                "Width": 192,
-                "Visible": true,
-                "X": 79,
-                "Y": 494,
-                "RelativeX": 79,
-                "RelativeY": 494,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "borderRadius": 15,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "49.036144578313255%",
-                    "top": "72.52883600030252%",
-                    "display": "flex"
-                },
-                "FontBold": false,
-                "FontItalic": false,
-                "Raised": false,
-                "Disabled": false,
-                "ParentId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66",
-                "position": "absolute",
-                "edgeOffsets": 494
-            },
-            "children": [],
-            "id": "93998c05-0943-4ed0-b0c4-1fa96c868d07",
-            "thunkableVersion": 424,
-            "name": "Button1"
-        },
-        {
             "type": "TextInput",
             "translatedName": "Text Input",
             "properties": {
@@ -450,7 +462,7 @@
             "children": [],
             "id": "bad1d0cf-4091-45cf-bb17-68a098863ae6",
             "thunkableVersion": 424,
-            "name": "Text_Input2"
+            "name": "Pass_Text_Input2"
         },
         {
             "type": "TextInput",
@@ -514,7 +526,7 @@
             "children": [],
             "id": "bbebe7ce-750a-4d8d-98ab-e8099d7ca78b",
             "thunkableVersion": 424,
-            "name": "Text_Input1"
+            "name": "Email_Text_Input1"
         },
         {
             "type": "Label",

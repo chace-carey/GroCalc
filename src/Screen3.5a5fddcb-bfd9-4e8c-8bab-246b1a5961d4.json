@@ -29,7 +29,8 @@
             "flexDirection": "column",
             "justifyContent": "center",
             "alignItems": "center",
-            "display": "flex"
+            "display": "flex",
+            "backgroundColor": "rgba(97, 97, 97, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -51,9 +52,79 @@
         "navigationOptions": {
             "headerStyle": {}
         },
-        "tabNavigationOptions": {}
+        "tabNavigationOptions": {},
+        "BackgroundColor": "rgba(97, 97, 97, 1)"
     },
-    "children": [],
+    "children": [
+        {
+            "type": "Label",
+            "translatedName": "Label",
+            "reactType": "Text",
+            "properties": {
+                "Text": "Main Page",
+                "FontSize": 64,
+                "CustomFont": "",
+                "LineHeight": 1,
+                "Color": "rgba(110, 185, 255, 1)",
+                "TextAlign": "center",
+                "Height": 77,
+                "Width": 383,
+                "Visible": true,
+                "X": 2,
+                "Y": 64,
+                "RelativeX": 2,
+                "RelativeY": 64,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "color": "rgba(110, 185, 255, 1)",
+                    "fontSize": 64,
+                    "fontStyle": "normal",
+                    "textShadowOffset": {},
+                    "letterSpacing": 0,
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textDecorationColor": "rgba(0, 0, 0, 1)",
+                    "writingDirection": "auto",
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "flexWrap": "wrap",
+                    "borderWidth": 0,
+                    "borderRadius": 0,
+                    "borderColor": "rgba(236, 237, 237, 1)",
+                    "borderStyle": "solid",
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "38.266666666666666%",
+                    "top": "6.146926536731634%",
+                    "lineHeight": 1,
+                    "display": "flex",
+                    "textAlign": "center"
+                },
+                "ParentId": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
+                "position": "absolute",
+                "edgeOffsets": 64,
+                "children": "Main Page"
+            },
+            "children": [],
+            "id": "9f16b255-5e75-4360-80e4-e450af60f58c",
+            "thunkableVersion": 425,
+            "bindings": null,
+            "name": "Welcome_Label3"
+        }
+    ],
     "id": "5a5fddcb-bfd9-4e8c-8bab-246b1a5961d4",
     "thunkableVersion": 424,
     "name": "Screen3"
