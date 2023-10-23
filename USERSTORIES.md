@@ -5,13 +5,13 @@ As a user I want to be able to have a UI/UX to cleanly navigate through the sign
 * Simple UI: Sign in and sign up button that logs user in then sends them into GroCalc App
 * Place product logo on all screens in order to brand the GroCalc app
 * Create a good color theme for the app in order to make GroCalc appealing
+* Button that logs user in then sends them into GroCalc App
 
 ## User Story #2
 As a user I want to be able to sign up and sign in to GroCalc with an email and password so that I can have personalized saved data. No later then October 23,2023
 
 ## Acceptance Criteria
 * Save all user information to firebase backend
-* Button that logs user in then sends them into GroCalc App
 * Personalize UI/UX based on saved user information
 
 ## User Story #3
