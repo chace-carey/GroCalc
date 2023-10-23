@@ -1,4 +1,5 @@
 {
+    "id": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -94,7 +95,8 @@
                 "capInsets": {},
                 "ParentId": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
                 "position": "absolute",
-                "edgeOffsets": 179
+                "edgeOffsets": 179,
+                "Picture": "grocalc-high-resolution-logo-transparent.png"
             },
             "children": [],
             "id": "6b1e91bd-f649-4cde-9847-68935e3eab97",
@@ -219,13 +221,13 @@
                 "LineHeight": 1,
                 "Color": "rgba(110, 185, 255, 1)",
                 "TextAlign": "center",
-                "Height": 65,
-                "Width": 379,
+                "Height": 69,
+                "Width": 383,
                 "Visible": true,
-                "X": 1,
-                "Y": 63,
-                "RelativeX": 1,
-                "RelativeY": 63,
+                "X": 2,
+                "Y": 64,
+                "RelativeX": 2,
+                "RelativeY": 64,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(110, 185, 255, 1)",
@@ -267,7 +269,7 @@
                 },
                 "ParentId": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
                 "position": "absolute",
-                "edgeOffsets": 63,
+                "edgeOffsets": 64,
                 "children": "Welcome!"
             },
             "children": [],
@@ -276,7 +278,6 @@
             "name": "Welcome_Label"
         }
     ],
-    "id": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
     "thunkableVersion": 424,
     "name": "Welcome Page"
 }
