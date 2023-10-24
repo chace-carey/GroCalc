@@ -163,6 +163,7 @@
                 },
                 "ParentId": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
                 "position": "absolute",
+
                 "edgeOffsets": 88.00000000000001,
                 "children": "Main Page"
             },
@@ -173,6 +174,8 @@
             "name": "Welcome_Label3"
         }
     ],
+
+    "id": "5a5fddcb-bfd9-4e8c-8bab-246b1a5961d4",
     "thunkableVersion": 424,
     "name": "Screen3"
 }
