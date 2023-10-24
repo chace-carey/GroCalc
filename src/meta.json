@@ -7,7 +7,24 @@
                     "children": []
                 }
             },
-            "assets": {},
+            "assets": {
+                "6536fcc718798e4b39bb6e22": {
+                    "externalStorageType": "GCS",
+                    "_id": "6536fcc718798e4b39bb6e22",
+                    "size": "66313",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "grocalc-high-resolution-logo-transparent.png",
+                    "backendURI": "/project/6536d7d5a420ab2e7c692437/getasset/6536fcc718798e4b39bb6e22",
+                    "name": "grocalc-high-resolution-logo-transparent.png",
+                    "externalName": "users/64f619ab2a4a21830baf2e5d/projects/6536d7d5a420ab2e7c692437/assets/6536fcc718798e4b39bb6e22",
+                    "createdAt": "2023-10-23T23:07:51.543Z",
+                    "updatedAt": "2023-10-23T23:07:51.543Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f619ab2a4a21830baf2e5d/projects/6536d7d5a420ab2e7c692437/assets/6536fcc718798e4b39bb6e22?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231023T230751Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a99639962008ed004313b98368fba6645a1a1816c569f719bdb99ce7edfb537979bf25ddc1d06b712537ecd504e383a622a2d8df5da7a6a37e0aa1c0b5f55773a9cd9b953d5fa07705fba11b102745cafa0db1361d08fa69bb2611a8e22f9903fbe11aff56de6694688ed8e8b7393cba635b1af0b3064825f6c1feb8dc25a2296c5cc58e6586816529cc1cf4d041613f513db8a4d8ff32449e9e921c3881dd67cdc1ff1bcb409730e34dbc7df73b56abe331bd3f1f5ce09a802525d54a2a323c0b81d86967d5b799eeed678b45529b6ee11d5e859a781c8df160db617f058e4da6f1377a1d5bcc7251a07b7299611a162d87f04c4b9ebd2c14d61736c83876fc",
+                    "signedUrlExpirationTime": 1698275271578
+                }
+            },
             "backendUpgradeVersion": 22,
             "blockly": {
                 "025c44f3-27b9-4ab0-b05f-a199d9d39c66": {

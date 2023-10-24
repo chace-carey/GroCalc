@@ -1,4 +1,5 @@
 {
+    "id": "6a0f225c-15b6-4541-b030-408299738669",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -56,6 +57,119 @@
         "tabNavigationOptions": {}
     },
     "children": [
+        {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
+                "Picture": "grocalc-high-resolution-logo-transparent.png",
+                "resizeMode": "stretch",
+                "Height": 77,
+                "Width": 91,
+                "Visible": true,
+                "X": 284,
+                "Y": 0,
+                "RelativeX": 284,
+                "RelativeY": 0,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "26.533333333333335%",
+                    "top": "26.986506746626688%",
+                    "display": "flex"
+                },
+                "capInsets": {},
+                "ParentId": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
+                "position": "absolute",
+                "edgeOffsets": 0
+            },
+            "children": [],
+            "id": "28b3fcc7-41f8-4a50-b2c9-b2294bf50474",
+            "thunkableVersion": 425,
+            "bindings": null,
+            "name": "Image3"
+        },
+        {
+            "type": "Label",
+            "translatedName": "Label",
+            "reactType": "Text",
+            "properties": {
+                "Text": "",
+                "FontSize": 18,
+                "CustomFont": "",
+                "LineHeight": 1,
+                "Color": "rgba(0, 0, 0, 1)",
+                "Height": 83,
+                "Width": 376,
+                "Visible": true,
+                "X": 1,
+                "Y": 585,
+                "RelativeX": 1,
+                "RelativeY": 585,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "color": "rgba(0, 0, 0, 1)",
+                    "fontSize": 18,
+                    "fontStyle": "normal",
+                    "textShadowOffset": {},
+                    "letterSpacing": 0,
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textDecorationColor": "rgba(0, 0, 0, 1)",
+                    "writingDirection": "auto",
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "flexWrap": "wrap",
+                    "borderWidth": 0,
+                    "borderRadius": 0,
+                    "borderColor": "rgba(236, 237, 237, 1)",
+                    "borderStyle": "solid",
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "18.266666666666666%",
+                    "top": "84.91613568215892%",
+                    "lineHeight": 1,
+                    "display": "flex"
+                },
+                "ParentId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66",
+                "position": "absolute",
+                "edgeOffsets": 585,
+                "children": ""
+            },
+            "children": [],
+            "id": "01b2a1f6-a8e4-4b7c-aab8-a5a5c24458e1",
+            "thunkableVersion": 425,
+            "bindings": null,
+            "name": "Error_Label9"
+        },
         {
             "type": "Label",
             "translatedName": "Label",
@@ -680,10 +794,10 @@
                 "Height": 77,
                 "Width": 383,
                 "Visible": true,
-                "X": 2,
-                "Y": 64,
-                "RelativeX": 2,
-                "RelativeY": 64,
+                "X": -8,
+                "Y": 88,
+                "RelativeX": -8,
+                "RelativeY": 88,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(110, 185, 255, 1)",
@@ -725,7 +839,7 @@
                 },
                 "ParentId": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
                 "position": "absolute",
-                "edgeOffsets": 64,
+                "edgeOffsets": 88.00000000000001,
                 "children": "Sign Up"
             },
             "children": [],
@@ -735,7 +849,6 @@
             "name": "Welcome_Label2"
         }
     ],
-    "id": "6a0f225c-15b6-4541-b030-408299738669",
     "thunkableVersion": 424,
     "name": "Sign Up"
 }
