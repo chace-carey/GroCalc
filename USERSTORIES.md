@@ -38,9 +38,9 @@ As a user I want to be able to see my groceries and roommates from any device so
 As a user I want to setup roommates names so that I can refrence who needs to pay for what items. No later then October 30, 2023.
 
 ## Acceptence Criteria
-- US 6: Add a "+" button that allows a user to enter a name
+- Add a "+" button that allows a user to enter a name
 - After entering each name a user can press a"save" button that saves the name to that app session
-- US 6: At most four names can be entered after hitting the "+" button
+- At most four names can be entered after hitting the "+" button
 
 ## User Story #7
 As a user I want to add items into a list in order to display what was purchased and what costs need to be divided. No later then October 30, 2023.
