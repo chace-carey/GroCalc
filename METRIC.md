@@ -17,5 +17,5 @@
 - Number of items clicked on screens
 
 
-Metric 1: Use Google analytics on firebase to see user engament time and track how long each use in on each screen
-Metric 2: Use Google analytics on firebase Use Events To track if user is excessivly clicking on screens
+- Metric 1: Use Google analytics on firebase to see user engagement time and track how long users on are each screen
+- Metric 2: Use Google analytics on firebase  To track events to see if user is clicking 
