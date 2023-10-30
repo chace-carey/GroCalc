@@ -1,4 +1,4 @@
-## A/B Test Name: Ad revenue
+## A/B Test Name: Ease Of Use
 ## User Story Number: User Story #5
 ## Metric: Task Success
 
