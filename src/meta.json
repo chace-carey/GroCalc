@@ -21,8 +21,8 @@
                     "createdAt": "2023-10-23T23:07:51.543Z",
                     "updatedAt": "2023-10-23T23:07:51.543Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f619ab2a4a21830baf2e5d/projects/6536d7d5a420ab2e7c692437/assets/6536fcc718798e4b39bb6e22?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231029%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231029T201049Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=52388530af5980c613360ddc254de945f9d4d2365a2d3cd7666356d32ccad856f54aa09e69ae305aaac1ce94f6429c034b61cde66bdd92ae771fe81e22f320bd5d3ac5e158a1372c5a7d106c97ac721599bdf1ddc8928d1fe3b0644671290beb592b4778c835bc28ba317bcc81f992a441719826ff242c4b7464a1ac16a94bbb027db56462d0f053197becc82257a99f2e50f066777a9036ca4430fd1474b9eae51ebecc574911d3175b89246625b6f6440dd98f296a62bba2515dca08a249cae20499bd099fd1bae027bce86a89d7107bd4b31755e249de3df4a3356c719e8e8719ef8fad974910d9eb86e4dca1ecee5ab2575fdb47f75da08f1ea5da455d01",
-                    "signedUrlExpirationTime": 1698783049284
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f619ab2a4a21830baf2e5d/projects/6536d7d5a420ab2e7c692437/assets/6536fcc718798e4b39bb6e22?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231030%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231030T235655Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=bbd1cd14a95b30e91dda355e98bbc650d3e330283e8ddfc4bff61b27cf253dc4c98ffc76d543688e1f0cb0afd433d9643ebd89118604ceb7247a41062c9d32b3edc7851bf4e247ba64873c873ba60d264a86082ab9ca396df02fe5344c363b37e23f7fb07ab335365dad82b36d45cbc8e8e432040de9206bda64ca1e846450966dcb5cee081d42fe5dfca8982fc95c4f79ea74ced0d09f2f6bddb9ca841ae6caa35454edf33300082b5186daf40404be6fc86b26a1f0b42bbea7dac925a8ce226e02efb09218b1c582b10676b89923c31ad45fd04ba39ee6a8aa243568693d44db7deb0695b23cf3007b75b86abb9d720941dda7e1baed61cb1a52523ab4a19a",
+                    "signedUrlExpirationTime": 1698883015955
                 }
             },
             "backendUpgradeVersion": 23,
@@ -66,6 +66,26 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "c218e5f5-5e8a-405e-a4d2-5ad01a50db68": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -84,6 +104,12 @@
                     },
                     {
                         "id": "5a5fddcb-bfd9-4e8c-8bab-246b1a5961d4"
+                    },
+                    {
+                        "id": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a"
+                    },
+                    {
+                        "id": "c218e5f5-5e8a-405e-a4d2-5ad01a50db68"
                     }
                 ]
             },
@@ -184,7 +210,79 @@
             "hasPushNotification": false,
             "hasAssistant": null,
             "dataSourceLinks": [],
-            "localDataSources": [],
+            "localDataSources": [
+                {
+                    "id": "beca85c7-e4e4-42ab-a27a-c9e2d7b37b46",
+                    "dataSource": {
+                        "id": "146610b4-772b-4808-a40f-daf6707c0fac",
+                        "name": "items",
+                        "owner": "64f9e4f79e1206198303a399",
+                        "collections": [
+                            {
+                                "id": "e7d1db5c-20c2-41a2-a722-fe3c0af543e4",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "4d83296c-2170-48a4-b92f-3541f881abaf",
+                                        "name": "column1",
+                                        "label": "name",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "c4a49efa-4a13-47b0-a023-d3066f9ae1a7",
+                                        "name": "column2",
+                                        "label": "cost",
+                                        "type": "NUMBER"
+                                    },
+                                    {
+                                        "id": "7ac7af77-052c-404a-9558-c41597625390",
+                                        "label": "roomates",
+                                        "name": "roomates",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "3199813d-1f44-4b36-bfde-b3a59bcf325c",
+                                        "label": "quantity",
+                                        "name": "quantity",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": [
+                                        {
+                                            "cursor": "ac805bed-575a-42df-93be-69de4ef4f28a",
+                                            "node": {
+                                                "id": "4439639a-f73d-451c-9f87-f396216593fa",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "4d83296c-2170-48a4-b92f-3541f881abaf",
+                                                        "value": "cat"
+                                                    },
+                                                    {
+                                                        "fieldId": "c4a49efa-4a13-47b0-a023-d3066f9ae1a7",
+                                                        "value": "4"
+                                                    },
+                                                    {
+                                                        "fieldId": "7ac7af77-052c-404a-9558-c41597625390",
+                                                        "value": "nick"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "69f0f464-0254-4414-9dac-329a66488d4d",
+                            "name": "items",
+                            "owner": "64f9e4f79e1206198303a399",
+                            "type": "LOCAL"
+                        }
+                    }
+                }
+            ],
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
