@@ -56,3 +56,11 @@ As a user I want to be able to search up my roommates names and add them as a fr
 - A person is able to add a friend and both users are able to see eachother on their devices
 - A person is able to add items being split between the now added friend
 - A person is able to see the list created by a friend
+
+## User Story #9
+As a user I want to be able to delete items from my list and have each of the item's purchasing roommate's cost be dropped in order to fix mistakes typed in. 
+
+## Acceptence Criteria
+- A person is able to remove an item from the list
+- A person is able to see an updated list view
+- A person is able to see an updated total cost for the roommates associated with the item
