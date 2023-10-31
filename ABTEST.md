@@ -22,7 +22,7 @@ Some variations we would like to test is a label of “add names” next to a �
 Another idea is just a simple “+” button on the screen with a header saying “Add names”
 
 ## A/B Test Name: User Contentment
-## User Story Number: User Story #3
+## User Story Number: User Story #7
 ## Metric: Happiness
 
 ## Hypothesis:
