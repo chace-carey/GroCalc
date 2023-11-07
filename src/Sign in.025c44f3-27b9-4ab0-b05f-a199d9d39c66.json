@@ -102,7 +102,7 @@
             "id": "9baca95c-830f-4f89-a29a-94695c80403a",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "Image2"
+            "name": "Logo1"
         },
         {
             "type": "Label",
@@ -167,7 +167,7 @@
             "children": [],
             "id": "1502e15e-9b54-41c3-8043-e872757f2e7f",
             "thunkableVersion": 425,
-            "name": "Error_Label8"
+            "name": "Error_Label"
         },
         {
             "type": "Label",
@@ -232,7 +232,7 @@
             "children": [],
             "id": "1502e15e-9b54-41c3-8043-e872757f2e7f",
             "thunkableVersion": 425,
-            "name": "Error_Label8"
+            "name": "Error_Label"
         },
         {
             "type": "Label",
@@ -297,7 +297,7 @@
             "children": [],
             "id": "3d277d2c-73cf-48a4-9409-4afaccde2add",
             "thunkableVersion": 424,
-            "name": "Label6"
+            "name": "RememberMe_Label"
         },
         {
             "type": "Checkbox",
@@ -327,7 +327,7 @@
             "children": [],
             "id": "b672b17f-d500-448f-a355-78117d812e5a",
             "thunkableVersion": 424,
-            "name": "Checkbox1"
+            "name": "Remember_Check"
         },
         {
             "type": "Label",
@@ -393,7 +393,7 @@
             "id": "c8611bd9-71f3-4bf6-8603-9465f4a36728",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "Label2"
+            "name": "Password_Label"
         },
         {
             "type": "Label",
@@ -408,9 +408,9 @@
                 "Height": 29,
                 "Width": 79,
                 "Visible": true,
-                "X": 41,
+                "X": 40,
                 "Y": 173,
-                "RelativeX": 41,
+                "RelativeX": 40,
                 "RelativeY": 173,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -458,7 +458,7 @@
             "children": [],
             "id": "aaa5addd-429f-49b9-becb-3e6786793918",
             "thunkableVersion": 424,
-            "name": "Label1"
+            "name": "Email_Label"
         },
         {
             "type": "Button",
@@ -472,9 +472,9 @@
                 "Height": 53,
                 "Width": 315,
                 "Visible": true,
-                "X": 18,
+                "X": 16,
                 "Y": 411,
-                "RelativeX": 18,
+                "RelativeX": 16,
                 "RelativeY": 411,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -511,7 +511,7 @@
             "children": [],
             "id": "86e988c3-78b4-42bc-ac9f-2a03ec95ac98",
             "thunkableVersion": 424,
-            "name": "Button2"
+            "name": "SignIn_Button"
         },
         {
             "type": "TextInput",
@@ -521,9 +521,9 @@
                 "Height": 41,
                 "Width": 315,
                 "Visible": true,
-                "X": 32,
+                "X": 21,
                 "Y": 289,
-                "RelativeX": 32,
+                "RelativeX": 21,
                 "RelativeY": 289,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -570,12 +570,13 @@
                 "ParentId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66",
                 "position": "absolute",
                 "edgeOffsets": 289,
-                "placeholder": "Type here"
+                "placeholder": "Type here",
+                "secureTextEntry": true
             },
             "children": [],
             "id": "bad1d0cf-4091-45cf-bb17-68a098863ae6",
             "thunkableVersion": 424,
-            "name": "Pass_Text_Input2"
+            "name": "Password_Input"
         },
         {
             "type": "TextInput",
@@ -585,9 +586,9 @@
                 "Height": 37,
                 "Width": 311,
                 "Visible": true,
-                "X": 30,
+                "X": 8,
                 "Y": 205,
-                "RelativeX": 30,
+                "RelativeX": 8,
                 "RelativeY": 205,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -639,7 +640,7 @@
             "children": [],
             "id": "bbebe7ce-750a-4d8d-98ab-e8099d7ca78b",
             "thunkableVersion": 424,
-            "name": "Email_Text_Input1"
+            "name": "Email_Input"
         },
         {
             "type": "Label",
@@ -655,9 +656,9 @@
                 "Height": 75,
                 "Width": 381,
                 "Visible": true,
-                "X": 0,
+                "X": -10,
                 "Y": 90,
-                "RelativeX": 0,
+                "RelativeX": -10,
                 "RelativeY": 90,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -707,7 +708,7 @@
             "id": "e1aa2267-0b41-4f32-a58b-246d07258884",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "Welcome_Label1"
+            "name": "SignIn_Label"
         }
     ],
     "thunkableVersion": 424,

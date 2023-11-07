@@ -101,7 +101,7 @@
             "children": [],
             "id": "6b1e91bd-f649-4cde-9847-68935e3eab97",
             "thunkableVersion": 424,
-            "name": "Image1"
+            "name": "Logo"
         },
         {
             "type": "Button",
@@ -155,7 +155,7 @@
             "id": "c72657bb-4360-4ffc-b21b-7ba9e4f86641",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "SignUpButton1"
+            "name": "SignUpButton"
         },
         {
             "type": "Button",
