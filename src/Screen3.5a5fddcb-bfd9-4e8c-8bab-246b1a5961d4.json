@@ -773,13 +773,14 @@
                 "LineHeight": 1,
                 "Color": "rgba(110, 185, 255, 1)",
                 "TextAlign": "center",
-                "Height": 77,
-                "Width": 383,
+                "Height": 79,
+                "Width": 385,
                 "Visible": true,
                 "X": -8,
                 "Y": 72,
                 "RelativeX": -8,
                 "RelativeY": 72,
+
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(110, 185, 255, 1)",
@@ -821,7 +822,9 @@
                 },
                 "ParentId": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
                 "position": "absolute",
+
                 "edgeOffsets": 72,
+
                 "children": "Main Page"
             },
             "children": [],

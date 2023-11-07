@@ -21,8 +21,10 @@
                     "createdAt": "2023-10-23T23:07:51.543Z",
                     "updatedAt": "2023-10-23T23:07:51.543Z",
                     "__v": 0,
+
                     "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f619ab2a4a21830baf2e5d/projects/6536d7d5a420ab2e7c692437/assets/6536fcc718798e4b39bb6e22?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231106%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231106T212721Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7050640548f16cf5080f0118d7d6c5fd723c384a956d46aa63efe64f62c1d7b33322353413077250c074731332ff7e1a841f44021770da6ab5fef47603fb683111d74b920c3cd56f5c694ccfe913f36c6e465e6f0fb7e7cf165412892149b651beeb25fe1425c01cc755351ac3afdb241afb878477d8d53c451b5599c20fb918c06a21b473b96a1c895b4e9425472166363e7213461469b1ce1f4ea9884355e28b689c03cf960cf27089796e7988d67a9ff27de022f8c12b1a05541ad81703a80ca8c13cc55e682975550b84eca945a73aea17d18f10d3fc509bb8023081092f0577ec0d08fa6cf6c8f5da4cf4912640b80428e007e70996cb149766ec10c815",
                     "signedUrlExpirationTime": 1699478841263
+
                 }
             },
             "backendUpgradeVersion": 23,
@@ -66,6 +68,26 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "c218e5f5-5e8a-405e-a4d2-5ad01a50db68": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -84,6 +106,12 @@
                     },
                     {
                         "id": "5a5fddcb-bfd9-4e8c-8bab-246b1a5961d4"
+                    },
+                    {
+                        "id": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a"
+                    },
+                    {
+                        "id": "c218e5f5-5e8a-405e-a4d2-5ad01a50db68"
                     }
                 ]
             },
@@ -184,7 +212,160 @@
             "hasPushNotification": false,
             "hasAssistant": null,
             "dataSourceLinks": [],
-            "localDataSources": [],
+            "localDataSources": [
+                {
+                    "id": "beca85c7-e4e4-42ab-a27a-c9e2d7b37b46",
+                    "dataSource": {
+                        "id": "146610b4-772b-4808-a40f-daf6707c0fac",
+                        "name": "items",
+                        "owner": "64f9e4f79e1206198303a399",
+                        "collections": [
+                            {
+                                "id": "e7d1db5c-20c2-41a2-a722-fe3c0af543e4",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "4d83296c-2170-48a4-b92f-3541f881abaf",
+                                        "name": "column1",
+                                        "label": "name",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "c4a49efa-4a13-47b0-a023-d3066f9ae1a7",
+                                        "name": "column2",
+                                        "label": "cost",
+                                        "type": "NUMBER"
+                                    },
+                                    {
+                                        "id": "7ac7af77-052c-404a-9558-c41597625390",
+                                        "label": "roomates",
+                                        "name": "roomates",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "3199813d-1f44-4b36-bfde-b3a59bcf325c",
+                                        "label": "quantity",
+                                        "name": "quantity",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": [
+                                        {
+                                            "cursor": "ac805bed-575a-42df-93be-69de4ef4f28a",
+                                            "node": {
+                                                "id": "4439639a-f73d-451c-9f87-f396216593fa",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "4d83296c-2170-48a4-b92f-3541f881abaf",
+                                                        "value": "cat"
+                                                    },
+                                                    {
+                                                        "fieldId": "c4a49efa-4a13-47b0-a023-d3066f9ae1a7",
+                                                        "value": "4"
+                                                    },
+                                                    {
+                                                        "fieldId": "7ac7af77-052c-404a-9558-c41597625390",
+                                                        "value": "nick"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "69f0f464-0254-4414-9dac-329a66488d4d",
+                            "name": "items",
+                            "owner": "64f9e4f79e1206198303a399",
+                            "type": "LOCAL"
+                        }
+                    }
+                },
+                {
+                    "id": "8f669c9b-fcd1-4f39-9e85-613899838c3c",
+                    "dataSource": {
+                        "id": "b7ee6449-b646-4773-88fc-21a24d7e8949",
+                        "name": "roomates",
+                        "owner": "64f9e4f79e1206198303a399",
+                        "collections": [
+                            {
+                                "id": "fed7b26c-64a1-47e3-b0ba-6ef91418adc2",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "11daedf1-2793-4981-bce5-aea4d0b88d43",
+                                        "name": "column1",
+                                        "label": "name",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": [
+                                        {
+                                            "cursor": "e4a6dd72-6eef-4c56-b2e3-c1333e513981",
+                                            "node": {
+                                                "id": "f6c5e3cf-9f36-46c8-ac02-cf7faa359bf0",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "11daedf1-2793-4981-bce5-aea4d0b88d43",
+                                                        "value": "nick"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "6073ae53-e725-49de-b8ef-ddcc69624164",
+                                            "node": {
+                                                "id": "50b5b1a9-b56d-405d-94bf-124617cc9e8f",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "11daedf1-2793-4981-bce5-aea4d0b88d43",
+                                                        "value": "max"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "14a4ebae-43f9-426f-a150-1b18805c7c83",
+                                            "node": {
+                                                "id": "e3d91852-8174-414c-9c71-871ed23691b1",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "11daedf1-2793-4981-bce5-aea4d0b88d43",
+                                                        "value": "chace"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "6e035c12-e524-418b-ae00-7cf3b3d83494",
+                                            "node": {
+                                                "id": "ef13227f-bd54-4487-a4d5-dcdfe4662d9a",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "11daedf1-2793-4981-bce5-aea4d0b88d43",
+                                                        "value": "steven"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "34b64fda-903b-4e73-ab11-16abdffe4522",
+                            "name": "roomates",
+                            "owner": "64f9e4f79e1206198303a399",
+                            "type": "LOCAL"
+                        }
+                    }
+                }
+            ],
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
@@ -195,22 +376,22 @@
                 "502f3c2d-d491-49b7-acc2-4cad55c69ef4": {
                     "scope": "STORED",
                     "name": "email",
-                    "screenId": "6a0f225c-15b6-4541-b030-408299738669"
+                    "screenId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66"
                 },
                 "df03e0ac-c71c-45c1-9539-edcde651ba85": {
                     "scope": "STORED",
                     "name": "pass",
-                    "screenId": "6a0f225c-15b6-4541-b030-408299738669"
+                    "screenId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66"
                 },
                 "82c39ddb-cab5-4b6d-9e3c-036829192be8": {
                     "scope": "APP",
                     "name": "session_email",
-                    "screenId": "6a0f225c-15b6-4541-b030-408299738669"
+                    "screenId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66"
                 },
                 "3c1c1bd7-3992-4ec7-a785-859ffd1715ba": {
                     "scope": "APP",
                     "name": "userID",
-                    "screenId": "6a0f225c-15b6-4541-b030-408299738669"
+                    "screenId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66"
                 },
                 "f4144d24-3aa1-4ef6-b960-dfc49be4dd6d": {
                     "scope": "APP",
@@ -236,6 +417,16 @@
                     "scope": "STORED",
                     "name": "name_second",
                     "screenId": "5a5fddcb-bfd9-4e8c-8bab-246b1a5961d4"
+                },
+                "03795bd6-116c-4d06-9fac-776fdd0bbceb": {
+                    "scope": "APP",
+                    "name": "selectedRoomates",
+                    "screenId": "c218e5f5-5e8a-405e-a4d2-5ad01a50db68"
+                },
+                "b451d0fb-66f2-4f81-b829-dd938a4dd30f": {
+                    "scope": "APP",
+                    "name": "selectedRoomatesLabelText",
+                    "screenId": "c218e5f5-5e8a-405e-a4d2-5ad01a50db68"
                 }
             },
             "defaultDesignerDevice": "PHONE",
