@@ -1,4 +1,5 @@
 {
+    "id": "c218e5f5-5e8a-405e-a4d2-5ad01a50db68",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -1094,7 +1095,6 @@
             "name": "logoImage1"
         }
     ],
-    "id": "c218e5f5-5e8a-405e-a4d2-5ad01a50db68",
     "thunkableVersion": 426,
     "bindings": null,
     "name": "AddItemPage"
