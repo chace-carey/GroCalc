@@ -1,4 +1,5 @@
 {
+    "id": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -580,7 +581,6 @@
             "name": "logoImage"
         }
     ],
-    "id": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a",
     "thunkableVersion": 426,
     "name": "Items Page"
 }
