@@ -1,8 +1,23 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
-  "patternProperties": {
-    "^[A-Za-z0-9]{28}$": {
+  "properties": {
+    "email": {
+      "type": "string"
+    },
+    "friend_requests": {
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string"
+        }
+      },
+      "required": ["email"]
+    },
+    "name": {
+      "type": "string"
+    },
+    "roommates": {
       "type": "object",
       "properties": {
         "email": {
@@ -10,10 +25,47 @@
           "format": "email"
         }
       },
-      "required": ["email"],
-      "additionalProperties": false
+      "required": ["email"]
+    },
+    "Items": {
+      "type": "object",
+      "patternProperties": {
+        "^item[0-9]+$": {
+          "type": "object",
+          "properties": {
+            "author": {
+              "type": "string"
+            },
+            "created": {
+              "type": "string",
+              "format": "date"  
+            },
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "price": {
+              "type": "number"
+            },
+            "qty": {
+              "type": "integer"
+            },
+            "roommates": {
+              "type": "object",
+              "properties": {
+                "email": {
+                  "type": "string"
+                }
+              },
+              "required": ["email"]
+            }
+          },
+          "required": ["author", "created", "id", "name", "price", "qty", "roommates"]
+        }
+      }
     }
   },
-  "additionalProperties": false
-}
+  "required": ["email", "name", "roommates"]
 }
