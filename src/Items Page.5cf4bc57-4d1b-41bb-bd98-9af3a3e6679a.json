@@ -58,6 +58,82 @@
     },
     "children": [
         {
+            "type": "AdMobBanner",
+            "label": "AdMob Banner",
+            "translatedName": "AdMob Banner",
+            "properties": {
+                "Visible": true,
+                "AdUnitID": "ca-app-pub-3940256099942544/6300978111",
+                "AdUnitID_iOS": "ca-app-pub-3940256099942544/6300978111",
+                "TestMode": true,
+                "Width": 375,
+                "Height": 32,
+                "X": 0,
+                "ParentId": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a",
+                "Y": 613.7999877929688,
+                "RelativeX": 0,
+                "RelativeY": 613,
+                "position": "absolute",
+                "edgeOffsets": 613.7999877929688,
+                "style": {
+                    "position": "absolute",
+                    "left": "34.266666666666666%",
+                    "top": "86.17690971408827%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "1b7c6466-6af9-44fb-be5e-3764fd244250",
+            "thunkableVersion": 430,
+            "name": "AdMob_Banner1"
+        },
+        {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
+                "Picture": "add-friend-svgrepo-com(2).svg",
+                "resizeMode": "stretch",
+                "Height": 73,
+                "Width": 72,
+                "Visible": true,
+                "X": 287,
+                "Y": 11,
+                "RelativeX": 287,
+                "RelativeY": 11,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "58.53333333333333%",
+                    "top": "10.914540898496064%",
+                    "display": "flex"
+                },
+                "capInsets": {},
+                "ParentId": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a",
+                "position": "absolute",
+                "edgeOffsets": 11
+            },
+            "children": [],
+            "id": "0d5ebf1f-1459-456f-9ff1-61128abbec25",
+            "thunkableVersion": 430,
+            "name": "addFriendIcon"
+        },
+        {
             "type": "Button",
             "translatedName": "Button",
             "properties": {
@@ -70,9 +146,9 @@
                 "Width": 311,
                 "Visible": true,
                 "X": 32,
-                "Y": 596,
+                "Y": 534,
                 "RelativeX": 32,
-                "RelativeY": 596,
+                "RelativeY": 534,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -103,7 +179,7 @@
                 "Disabled": false,
                 "ParentId": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a",
                 "position": "absolute",
-                "edgeOffsets": 596
+                "edgeOffsets": 534.9999999999999
             },
             "children": [],
             "id": "49933f86-dacf-46a6-b631-7bded0946e90",
@@ -135,18 +211,18 @@
                         }
                     }
                 },
-                "Height": 406,
-                "Width": 375,
+                "Height": 405,
+                "Width": 377,
                 "Visible": true,
-                "X": 0,
-                "Y": 177,
-                "RelativeX": 0,
-                "RelativeY": 177,
+                "X": -2,
+                "Y": 112,
+                "RelativeX": -2,
+                "RelativeY": 112,
                 "ResizeMode": "STRETCH",
                 "EmptyText": "",
                 "ParentId": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a",
                 "position": "absolute",
-                "edgeOffsets": 177,
+                "edgeOffsets": 112,
                 "style": {
                     "position": "absolute",
                     "left": "27.395548502604168%",
@@ -292,8 +368,8 @@
                                         "numberOfLines": 1
                                     },
                                     "children": [],
-                                    "id": "813471e3-122d-443e-a402-4d8a7699b871",
-                                    "thunkableVersion": 426,
+                                    "id": "833bd74a-5d6a-4182-8dd3-4e4227e97080",
+                                    "thunkableVersion": 430,
                                     "bindings": {
                                         "Text": {
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
@@ -307,8 +383,8 @@
                                     "bindingLabel": "Title"
                                 }
                             ],
-                            "id": "e51d13ba-0d9d-40aa-834e-565462ca09a4",
-                            "thunkableVersion": 426,
+                            "id": "0892efbf-fc63-46aa-958c-1945bb11e751",
+                            "thunkableVersion": 430,
                             "name": "TitleWrapper"
                         },
                         {
@@ -407,8 +483,8 @@
                                         "numberOfLines": 1
                                     },
                                     "children": [],
-                                    "id": "13523b9a-a200-43a7-be7e-6a9834131dbe",
-                                    "thunkableVersion": 426,
+                                    "id": "89953452-ce99-46a0-a592-533bcf687645",
+                                    "thunkableVersion": 430,
                                     "bindings": {
                                         "Text": {
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
@@ -438,18 +514,18 @@
                                         }
                                     },
                                     "children": [],
-                                    "id": "21e8a9f3-fc07-48b7-ada3-55432141933b",
-                                    "thunkableVersion": 426,
+                                    "id": "a5d8ecc7-8b2c-409a-b675-a9ea6d8c7449",
+                                    "thunkableVersion": 430,
                                     "name": "Caret"
                                 }
                             ],
-                            "id": "cab045a3-4037-42f5-931e-f3b79ece2a13",
-                            "thunkableVersion": 426,
+                            "id": "b09529d2-4f01-4c05-9e34-92403149e044",
+                            "thunkableVersion": 430,
                             "name": "SubtitleWrapper"
                         }
                     ],
-                    "id": "4f659073-3949-41f9-a070-f2fd6910b349",
-                    "thunkableVersion": 426,
+                    "id": "6be8f4bb-3f4e-4e95-84b1-a48c49a3311d",
+                    "thunkableVersion": 430,
                     "name": "LayoutWrapper"
                 }
             ],
@@ -475,14 +551,14 @@
                 "CustomFont": "",
                 "LineHeight": 1,
                 "Color": "rgba(110, 185, 255, 1)",
-                "TextAlign": "center",
-                "Height": 79,
-                "Width": 385,
+                "TextAlign": "left",
+                "Height": 71,
+                "Width": 154,
                 "Visible": true,
-                "X": -10,
-                "Y": 91,
-                "RelativeX": -10,
-                "RelativeY": 91,
+                "X": 112,
+                "Y": 11,
+                "RelativeX": 112,
+                "RelativeY": 11,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(110, 185, 255, 1)",
@@ -520,11 +596,11 @@
                     "top": "6.146926536731634%",
                     "lineHeight": 1,
                     "display": "flex",
-                    "textAlign": "center"
+                    "textAlign": "left"
                 },
                 "ParentId": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
                 "position": "absolute",
-                "edgeOffsets": 91,
+                "edgeOffsets": 11,
                 "children": "Items"
             },
             "children": [],
@@ -542,10 +618,10 @@
                 "Height": 74,
                 "Width": 99,
                 "Visible": true,
-                "X": 267,
-                "Y": 6,
-                "RelativeX": 267,
-                "RelativeY": 6,
+                "X": 0,
+                "Y": 12,
+                "RelativeX": 0,
+                "RelativeY": 12,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -572,7 +648,7 @@
                 "capInsets": {},
                 "ParentId": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
                 "position": "absolute",
-                "edgeOffsets": 6
+                "edgeOffsets": 12
             },
             "children": [],
             "id": "cfb52601-5392-464b-b05b-2f0fc3129212",
