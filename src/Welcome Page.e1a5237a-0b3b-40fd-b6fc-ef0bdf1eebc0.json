@@ -62,13 +62,13 @@
             "translatedName": "Image",
             "properties": {
                 "resizeMode": "stretch",
-                "Height": 141,
-                "Width": 194,
+                "Height": 165,
+                "Width": 197,
                 "Visible": true,
-                "X": 77,
-                "Y": 179,
-                "RelativeX": 77,
-                "RelativeY": 179,
+                "X": 76,
+                "Y": 157,
+                "RelativeX": 76,
+                "RelativeY": 157,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -95,13 +95,13 @@
                 "capInsets": {},
                 "ParentId": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
                 "position": "absolute",
-                "edgeOffsets": 179,
+                "edgeOffsets": 157,
                 "Picture": "grocalc-high-resolution-logo-transparent.png"
             },
             "children": [],
             "id": "6b1e91bd-f649-4cde-9847-68935e3eab97",
             "thunkableVersion": 424,
-            "name": "Image1"
+            "name": "Logo"
         },
         {
             "type": "Button",
@@ -155,7 +155,7 @@
             "id": "c72657bb-4360-4ffc-b21b-7ba9e4f86641",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "SignUpButton1"
+            "name": "SignUpButton"
         },
         {
             "type": "Button",

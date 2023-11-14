@@ -102,7 +102,7 @@
             "id": "28b3fcc7-41f8-4a50-b2c9-b2294bf50474",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "Image3"
+            "name": "Logo2"
         },
         {
             "type": "Label",
@@ -300,7 +300,7 @@
             "id": "ebfb1e9c-de80-4237-a7d1-195a95f72c3e",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "Label7"
+            "name": "RememberMe_Label1"
         },
         {
             "type": "Checkbox",
@@ -331,7 +331,7 @@
             "id": "6eaa3e0b-f2d0-4012-8ea6-7cb25d58f81e",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "Checkbox2"
+            "name": "Remember_Check1"
         },
         {
             "type": "Button",
@@ -345,9 +345,9 @@
                 "Height": 51,
                 "Width": 313,
                 "Visible": true,
-                "X": 37,
+                "X": 33,
                 "Y": 503,
-                "RelativeX": 37,
+                "RelativeX": 33,
                 "RelativeY": 503,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -385,7 +385,7 @@
             "id": "1fe9a5f2-e5e0-414e-be6e-7270040333e0",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "SignUpButton3"
+            "name": "SignUp_Button"
         },
         {
             "type": "TextInput",
@@ -395,9 +395,9 @@
                 "Height": 37,
                 "Width": 311,
                 "Visible": true,
-                "X": 30,
+                "X": -1,
                 "Y": 381,
-                "RelativeX": 30,
+                "RelativeX": -1,
                 "RelativeY": 381,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -444,13 +444,14 @@
                 "ParentId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66",
                 "position": "absolute",
                 "edgeOffsets": 381.99999999999994,
-                "placeholder": "Type here"
+                "placeholder": "Type here",
+                "secureTextEntry": true
             },
             "children": [],
             "id": "a9e545be-5da7-4a77-8e85-88bc07f82d12",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "ConPass_Text_Input5"
+            "name": "Confirm_Input"
         },
         {
             "type": "TextInput",
@@ -460,9 +461,9 @@
                 "Height": 39,
                 "Width": 313,
                 "Visible": true,
-                "X": 32,
+                "X": -1,
                 "Y": 289,
-                "RelativeX": 32,
+                "RelativeX": -1,
                 "RelativeY": 289,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -509,13 +510,14 @@
                 "ParentId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66",
                 "position": "absolute",
                 "edgeOffsets": 289,
-                "placeholder": "Type here"
+                "placeholder": "Type here",
+                "secureTextEntry": true
             },
             "children": [],
             "id": "a8cc340e-3dcf-46a1-9ccb-38f02ce07d8d",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "Pass_Text_Input4"
+            "name": "Password_Input1"
         },
         {
             "type": "Label",
@@ -530,9 +532,9 @@
                 "Height": 33,
                 "Width": 205,
                 "Visible": true,
-                "X": 30,
+                "X": 27,
                 "Y": 340,
-                "RelativeX": 30,
+                "RelativeX": 27,
                 "RelativeY": 340,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -581,7 +583,7 @@
             "id": "8e428749-daa7-43e8-b8e8-a61d16609290",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "Label5"
+            "name": "Confirm_Label"
         },
         {
             "type": "Label",
@@ -596,9 +598,9 @@
                 "Height": 25,
                 "Width": 125,
                 "Visible": true,
-                "X": 32,
+                "X": 28,
                 "Y": 259,
-                "RelativeX": 32,
+                "RelativeX": 28,
                 "RelativeY": 259,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -647,7 +649,7 @@
             "id": "4b633e2d-3550-49cc-9d61-20809719f020",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "Pass_Label4"
+            "name": "Password_Label1"
         },
         {
             "type": "TextInput",
@@ -657,9 +659,9 @@
                 "Height": 37,
                 "Width": 311,
                 "Visible": true,
-                "X": 30,
+                "X": -1,
                 "Y": 205,
-                "RelativeX": 30,
+                "RelativeX": -1,
                 "RelativeY": 205,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -712,7 +714,7 @@
             "id": "7e83c564-7fb7-4455-a441-c03217c9c0d1",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "Email_Text_Input3"
+            "name": "Email_Input1"
         },
         {
             "type": "Label",
@@ -727,9 +729,9 @@
                 "Height": 29,
                 "Width": 79,
                 "Visible": true,
-                "X": 41,
+                "X": 38,
                 "Y": 173,
-                "RelativeX": 41,
+                "RelativeX": 38,
                 "RelativeY": 173,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -778,7 +780,7 @@
             "id": "aa62e727-e90c-4d8d-a1f2-5c381d9dd2d2",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "Label3"
+            "name": "Email_Label1"
         },
         {
             "type": "Label",
@@ -794,9 +796,9 @@
                 "Height": 77,
                 "Width": 383,
                 "Visible": true,
-                "X": -8,
+                "X": -10,
                 "Y": 88,
-                "RelativeX": -8,
+                "RelativeX": -10,
                 "RelativeY": 88,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -846,7 +848,7 @@
             "id": "9cee2ef5-a973-48e9-b1f1-b69dd8139416",
             "thunkableVersion": 424,
             "bindings": null,
-            "name": "Welcome_Label2"
+            "name": "SignUp_Label"
         }
     ],
     "thunkableVersion": 424,
