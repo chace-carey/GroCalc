@@ -1,4 +1,5 @@
 {
+    "id": "cad3758a-76a8-4a53-af85-09c3fdd6ff23",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -641,9 +642,9 @@
                 "Height": 74,
                 "Width": 99,
                 "Visible": true,
-                "X": 267,
+                "X": 266,
                 "Y": 6,
-                "RelativeX": 267,
+                "RelativeX": 266,
                 "RelativeY": 6,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -671,7 +672,7 @@
                 "capInsets": {},
                 "ParentId": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
                 "position": "absolute",
-                "edgeOffsets": 6
+                "edgeOffsets": 6.999999999999999
             },
             "children": [],
             "id": "ac3fc0a2-e836-47b3-9a36-e596338cf08c",
@@ -884,7 +885,6 @@
             "name": "headerLabel2"
         }
     ],
-    "id": "cad3758a-76a8-4a53-af85-09c3fdd6ff23",
     "thunkableVersion": 430,
     "name": "AddRoomatePage"
 }
