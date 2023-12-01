@@ -471,7 +471,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "f47ce99e-e42b-4c45-872b-1d273050bee3",
                                             "property": "DataSourceTableBinding",
-                                            "column": "18f3a95e-1ca8-4055-9264-91d8b1618886",
+                                            "column": "c9a98f83-77e7-417c-8a39-ef53d95b7574",
                                             "row": 0
                                         }
                                     },
@@ -562,8 +562,8 @@
             "name": "Data_Viewer_List2",
             "bindings": {
                 "DataSourceTableBinding": {
-                    "dataSourceLinkId": "ddb1e30a-0626-4523-bfd4-215eb33c259e",
-                    "collectionId": "3335e24f-00a4-4227-b46f-3686a7dfa2cb",
+                    "dataSourceLinkId": "9e71531a-ccf8-4b16-ab6c-a84d7f711d09",
+                    "collectionId": "985febb5-83af-4697-9e31-6d3db89b3e16",
                     "isLocal": true,
                     "type": "DATA_SOURCE_TABLE"
                 }

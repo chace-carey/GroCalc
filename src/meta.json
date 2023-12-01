@@ -44,8 +44,8 @@
                     "createdAt": "2023-10-23T23:07:51.543Z",
                     "updatedAt": "2023-10-23T23:07:51.543Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f619ab2a4a21830baf2e5d/projects/6536d7d5a420ab2e7c692437/assets/6536fcc718798e4b39bb6e22?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T194814Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1f6f5cf1e51e36b2a527f1e84e08e16db80b54b6a50864a7f729b719d3c1d9744509c958c0da65168bfe722003f8a72770ef07ee9e4822e5407394d7c48ce8aca572cd0e718b3c227360e062ff3d98715e7cfc2ac37a2bf76ec085274e35774ff1de7f55f715e3c2f6f3520fd23b2a0d7394e9b68b32a66253ee300e20e3c76ecacaff3745eb397d0326ad791015065dfb8e3b8308e1cff7ca62e6d5b09f92ca6bcdfbc0147a7b5617a67e3379a8d186e61b7dc2eaac848c0c623f1f39be34a9eb0806038079ab57a21a9d4a1ced47a448e8abeb23895d3bdceeb0a5f20dfe60cfd0af231317affaf536cbb23cb712eb06bc97d4bc416edfafc248749d3b5d0e",
-                    "signedUrlExpirationTime": 1701373694155
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f619ab2a4a21830baf2e5d/projects/6536d7d5a420ab2e7c692437/assets/6536fcc718798e4b39bb6e22?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231201%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231201T005442Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3bb9eabc9b6feb0b1a7847630d54627df83d1bdf482e3d067667abf6f23bc54544e00de6f4d156debd3096ad1e820bc1ea3c8705d586a8b2a8987a356852bfb7ee8745b8082283add008d95a991c1a463a8cde4240b2a8616dbb94e95faaa8aa72ab25d44cadd4dac8f3bbae0d6a94541baa475fbf2c47feb305fc6054cabe19f2ffc35a201e2dc24b41525341687a080716b4c784574374a7c7aa955f8473d3dda10bbf7d535e5e232da3a1a4ae25f35cd099cefc850efdb913a094a23a04bae5baf95de50b649a91cc2db46bb681e8f247830e6927ad9a10aa7d71cc5c07aae782967b9e4ab052ec7de79ed03ee6f3e7225647a17a2586e0deaea6bf1631ff",
+                    "signedUrlExpirationTime": 1701564882668
                 },
                 "6552f495cf155d652ad802af": {
                     "externalStorageType": "GCS",
@@ -60,8 +60,8 @@
                     "createdAt": "2023-11-14T04:16:21.332Z",
                     "updatedAt": "2023-11-14T04:16:21.332Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e4f79e1206198303a399/projects/65369e24c5c507d66f32ea58/assets/6552f495cf155d652ad802af?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T194814Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=6db364902d63de775f87d30adcdc0043525cd59467f69c336d3fa3b25bb960c1d99dcaf997003bfa709204c3bd902248fbf88cf4235dfc12a32a7e7808aab560435bdfa392eb208f696f46d2e2e54686c6c2bef9c0cd21dcad376ef33d6543cfb8083c39a7752d1c06a9088b27c88ee15a31205f8aa90ae0d670fbc1ceaedd320f67f1ac271ff207a3b3085426dbad4b9f64a8adfd5d7863bfa2cba5d9b92308e0f3919aa86084c7027c9d0fb1a58aa335359522f4ddb214695657933d40b160d54673c3991c0fe1abae6ae907b0d74fb5c07e77237c706b3578dca2892ff1e56a9af79eef926bbc18521c1b6e89512aaccc2e633df1038e9677d4c6978ad9ec",
-                    "signedUrlExpirationTime": 1701373694159
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e4f79e1206198303a399/projects/65369e24c5c507d66f32ea58/assets/6552f495cf155d652ad802af?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231201%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231201T005442Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b3fda39ba6a94b047eff73e597e8cd8db5ec7e6f18ab4fd4be823c20c586429ef27bce2bf98abecb0b6907faa2f5f7fd5c7ae97abc9854c3dbe517ae4f228df50b2183e7e617856bfd66ccd6d319c06f4f90fb0ec960d77745caf5254f9a3b308c49394f100d2596c18547540770573ea969c72db0d8f1f69a68975b3199bae3ee24cb809159aa956888a004ba0f418b2f233f03f5a9a8525ebf3b763808404dcb218b635312d3da3b56bfdaabc6929be06527558985c9d1303a1c0cf43d7041892593e2ea309caff69ada4954d8520b23aa5477e3353a8fdc79e09882265c481420e28bd195c58d0cb20c74da927544bc6d7f637ac2447d9bf996fad584b882",
+                    "signedUrlExpirationTime": 1701564882670
                 },
                 "6552f4bb1fc11c410e409c97": {
                     "externalStorageType": "GCS",
@@ -76,8 +76,8 @@
                     "createdAt": "2023-11-14T04:16:59.809Z",
                     "updatedAt": "2023-11-14T04:16:59.809Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e4f79e1206198303a399/projects/65369e24c5c507d66f32ea58/assets/6552f4bb1fc11c410e409c97?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T194814Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8eca2797f05910e85e746d62030ef2b3d3a7ee6b2c37d8c9a00b8ae5ac9ffc9414c04d620a2acd0d5f1aefa8593a08d632acb105fef707db730af52e32ab667e8234da40cfedcb1a88c229db81c8133baf8228ea79b37bad9491d9c887880e1861d2ee2319b01e2e0ef9315be6df6bd08400d571d8e19707705ff28d5be5686e50e9cf37d31d7683ffec0b6dd087cf07648c3f874308ed7ea3b7263e2e63c52270b23170de32b74ec1216321f9871f72fd89218703a91d5cf95538437c3cae6596ffe21c34502e7f3a044ea19cb436a1e732286b26122219bbf9c9f35e712672fb98ad469ba8f3a319d1d8c748ca5875eef4500c1850d2d53ed322fe45ce6bda",
-                    "signedUrlExpirationTime": 1701373694160
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e4f79e1206198303a399/projects/65369e24c5c507d66f32ea58/assets/6552f4bb1fc11c410e409c97?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231201%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231201T005442Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5b86ea3214f9ecc8b2bbf93a436c54cd72f8a05dcbedd5d48c274f7f164431657a3c8cf60e993cbbe937c9b9f169ab757300c0705fefd47d81f8128d3770fa1bca5005b352afcacf7bd68827e96e5583e19d2e4cd6d080ec149af7d767dc8b8056a8dedeb37c78a81ece32fcc1ba4226314e31b3fe6db3ff0041cae01eba9b5fd9b02f9b149fa12bcceebd4a59999bbdd98c4687b75c3ecba7c264edbac6382684bc16569c8f47d212c745e1e4398ba314affc87a5ce8a3a8b17666d85889f51ab0d97dc095b006b9a85fef5ea59d70d926c9e27c8f6c7113d331fad6d923175b28eea98c4dadb04aa8587fb85e4465fada0fc182128bbc7b0655532893d8b75",
+                    "signedUrlExpirationTime": 1701564882672
                 }
             },
             "backendUpgradeVersion": 23,
@@ -344,7 +344,7 @@
                                     {
                                         "id": "c4a49efa-4a13-47b0-a023-d3066f9ae1a7",
                                         "name": "column2",
-                                        "label": "cost",
+                                        "label": "price",
                                         "type": "NUMBER"
                                     },
                                     {
@@ -355,34 +355,31 @@
                                     },
                                     {
                                         "id": "3199813d-1f44-4b36-bfde-b3a59bcf325c",
-                                        "label": "quantity",
+                                        "label": "qty",
                                         "name": "quantity",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "84ebb59f-d04d-47f4-b046-a00253f4135c",
+                                        "label": "created",
+                                        "name": "column",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "ca22f615-cd14-40c2-a25d-eb027198492b",
+                                        "label": "author",
+                                        "name": "author",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "1a02620e-7e62-4ec8-8451-df1843ea6e85",
+                                        "label": "total",
+                                        "name": "total",
                                         "type": "STRING"
                                     }
                                 ],
                                 "data": {
-                                    "edges": [
-                                        {
-                                            "cursor": "ac805bed-575a-42df-93be-69de4ef4f28a",
-                                            "node": {
-                                                "id": "4439639a-f73d-451c-9f87-f396216593fa",
-                                                "values": [
-                                                    {
-                                                        "fieldId": "4d83296c-2170-48a4-b92f-3541f881abaf",
-                                                        "value": "cat"
-                                                    },
-                                                    {
-                                                        "fieldId": "c4a49efa-4a13-47b0-a023-d3066f9ae1a7",
-                                                        "value": "4"
-                                                    },
-                                                    {
-                                                        "fieldId": "7ac7af77-052c-404a-9558-c41597625390",
-                                                        "value": "nick"
-                                                    }
-                                                ]
-                                            }
-                                        }
-                                    ]
+                                    "edges": []
                                 }
                             }
                         ],
@@ -507,56 +504,7 @@
                                     }
                                 ],
                                 "data": {
-                                    "edges": [
-                                        {
-                                            "cursor": "f57c399a-5a2f-4b03-bd9b-a8e2057ba8d3",
-                                            "node": {
-                                                "id": "6e69cf1c-b5a7-471b-b93e-1388b0311686",
-                                                "values": [
-                                                    {
-                                                        "fieldId": "2c98fe59-6ed2-40a7-894b-fe4def39e96b",
-                                                        "value": "4B2zxJfK2tORbQtlEdc0hr8LYc62"
-                                                    },
-                                                    {
-                                                        "fieldId": "c9a98f83-77e7-417c-8a39-ef53d95b7574",
-                                                        "value": "test"
-                                                    }
-                                                ]
-                                            }
-                                        },
-                                        {
-                                            "cursor": "a84a59fa-cb7c-4db8-ac05-fa49cafdb9e7",
-                                            "node": {
-                                                "id": "9621a650-be5b-4085-8876-52d98ee48688",
-                                                "values": [
-                                                    {
-                                                        "fieldId": "2c98fe59-6ed2-40a7-894b-fe4def39e96b",
-                                                        "value": ""
-                                                    },
-                                                    {
-                                                        "fieldId": "c9a98f83-77e7-417c-8a39-ef53d95b7574",
-                                                        "value": ""
-                                                    }
-                                                ]
-                                            }
-                                        },
-                                        {
-                                            "cursor": "fcba94c7-805f-46ec-9dc9-ea118461ebc3",
-                                            "node": {
-                                                "id": "2afd14a5-c5b3-4233-bb8b-f1d38b18b0a6",
-                                                "values": [
-                                                    {
-                                                        "fieldId": "2c98fe59-6ed2-40a7-894b-fe4def39e96b",
-                                                        "value": ""
-                                                    },
-                                                    {
-                                                        "fieldId": "c9a98f83-77e7-417c-8a39-ef53d95b7574",
-                                                        "value": ""
-                                                    }
-                                                ]
-                                            }
-                                        }
-                                    ]
+                                    "edges": []
                                 }
                             }
                         ],
@@ -618,18 +566,28 @@
                 },
                 "57b5fa76-a81b-4065-9d48-e5ccc39379e1": {
                     "scope": "STORED",
-                    "name": "item",
-                    "screenId": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a"
-                },
-                "847bdd14-48b4-4f5a-895c-2587bfb676eb": {
-                    "scope": "STORED",
-                    "name": "itemrowid",
+                    "name": "selectedItemObject",
                     "screenId": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a"
                 },
                 "14175699-ac2d-489a-ac5d-f357c9962d8e": {
                     "scope": "APP",
                     "name": "friendRequests_local",
                     "screenId": "cad3758a-76a8-4a53-af85-09c3fdd6ff23"
+                },
+                "7baf4b79-d960-4bb2-99e0-b06cee8682be": {
+                    "scope": "APP",
+                    "name": "itemsBuffer",
+                    "screenId": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a"
+                },
+                "5dbaad75-db9d-4809-81fd-b2eecf6d0d03": {
+                    "scope": "APP",
+                    "name": "currentItemObject",
+                    "screenId": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a"
+                },
+                "eba3e45e-650b-43b8-8c76-c97c6363ec42": {
+                    "scope": "APP",
+                    "name": "timeDifference",
+                    "screenId": "e584be74-034e-40e2-8103-e3c783de5796"
                 }
             },
             "defaultDesignerDevice": "PHONE",
