@@ -35,7 +35,8 @@ As a user I want to be able to see my groceries and roommates from any device so
 - An existing user can see their roommates, groceries, and total from any device on which they're logged in
 - Sort Items from least to greatest by "created column"
 - Parse "addItemPage" data to be read and manipulated
-- Ensure all items are valid
+- Ensure all items are valid inputs
+- Implment local cache and wire up
 
 ## User Story #6
 As a user I want to setup roommates names so that I can refrence who needs to pay for what items. No later then October 30, 2023.
