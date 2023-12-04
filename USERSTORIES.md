@@ -75,3 +75,9 @@ As a Developer I want to add a backend component to Thunkable that reads the RTD
 ## Acceptence Criteria
 - Add cloud variables to sign in page that writes user objects into the RTDB
 - Add cloud variables to thunkable that writes the added items into the RTDB
+
+## User Story #11
+As a User I want to have a polished UI to navigate through the app and enjoy my experience.
+
+## Acceptence Criteria
+- UI is clean, looks organized and makes for easy access of app features
