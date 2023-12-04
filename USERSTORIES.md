@@ -50,16 +50,19 @@ As a user I want to setup roommates names so that I can refrence who needs to pa
 As a user I want to add items into a list in order to display what was purchased and what costs need to be divided. No later then October 30, 2023.
 
 ## Acceptence Criteria
-- A person is able to add items which will be displayed on screen
-- Items are saved to backend
+- Add parsing and validation logic
+- Create UI component and logic to add new a new item to the llist of items
+- Create UI component to render list items already added.
+- Add roomate selection to addItem screen
+- Add local caching layer and wire up ui to back end
 
 ## User Story #8
-As a user I want to be able to search up my roommates names and add them as a friend in order to edit and view the same list. No later then November 6, 2023.
+As a user I want to be able to search up my roommates by IDs and add them as a friend in order to edit and view the same list of items.
 
 ## Acceptence Criteria
-- A person is able to add a friend and both users are able to see eachother on their devices
-- A person is able to add items being split between the now added friend
-- A person is able to see the list created by a friend
+- Retrieve Freind Request Cache logic from firebase backend and connect to UI
+- Finalize And Implement a UI for addRoomatePage
+- Implement logic for creating and accepting friend requests
 
 ## User Story #9
 As a user I want to be able to delete items from my list and have each of the item's purchasing roommate's cost be dropped in order to fix mistakes typed in. 
@@ -75,3 +78,10 @@ As a Developer I want to add a backend component to Thunkable that reads the RTD
 ## Acceptence Criteria
 - Add cloud variables to sign in page that writes user objects into the RTDB
 - Add cloud variables to thunkable that writes the added items into the RTDB
+
+## User Story #11
+As a user, I want to be able to set my chosen display name after/while signing up so that roommate selection is easier
+
+## Acceptence Criteria
+- User can chose a "display name" after sigining up
+- "display name" is writen to firebase backend and stored under the user's data
