@@ -472,9 +472,9 @@
                 "Height": 53,
                 "Width": 315,
                 "Visible": true,
-                "X": 16,
+                "X": 30,
                 "Y": 411,
-                "RelativeX": 16,
+                "RelativeX": 30,
                 "RelativeY": 411,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -506,7 +506,7 @@
                 "Disabled": false,
                 "ParentId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66",
                 "position": "absolute",
-                "edgeOffsets": 411
+                "edgeOffsets": 411.99999999999994
             },
             "children": [],
             "id": "86e988c3-78b4-42bc-ac9f-2a03ec95ac98",
@@ -521,10 +521,10 @@
                 "Height": 41,
                 "Width": 315,
                 "Visible": true,
-                "X": 21,
-                "Y": 289,
-                "RelativeX": 21,
-                "RelativeY": 289,
+                "X": 30,
+                "Y": 292,
+                "RelativeX": 30,
+                "RelativeY": 292,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -569,7 +569,7 @@
                 "underlineColorAndroid": "rgba(0, 0, 0, 0)",
                 "ParentId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66",
                 "position": "absolute",
-                "edgeOffsets": 289,
+                "edgeOffsets": 292,
                 "placeholder": "Type here",
                 "secureTextEntry": true
             },
@@ -583,13 +583,13 @@
             "translatedName": "Text Input",
             "properties": {
                 "Hint": "Type here",
-                "Height": 37,
-                "Width": 311,
+                "Height": 41,
+                "Width": 320,
                 "Visible": true,
-                "X": 8,
-                "Y": 205,
-                "RelativeX": 8,
-                "RelativeY": 205,
+                "X": 28,
+                "Y": 208,
+                "RelativeX": 28,
+                "RelativeY": 208,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -634,7 +634,7 @@
                 "underlineColorAndroid": "rgba(0, 0, 0, 0)",
                 "ParentId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66",
                 "position": "absolute",
-                "edgeOffsets": 205,
+                "edgeOffsets": 208,
                 "placeholder": "Type here"
             },
             "children": [],
