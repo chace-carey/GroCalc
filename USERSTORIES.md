@@ -11,8 +11,9 @@ As a user I want to be able to have a UI/UX to cleanly navigate through the sign
 As a user I want to be able to sign up and sign in to GroCalc with an email and password so that I can have personalized saved data. No later then October 23, 2023.
 
 ## Acceptance Criteria
-* Save all user information to firebase backend
-* Personalize UI/UX based on saved user information
+* Firebase Data: Given user information when user creates an account save data to firebase backend
+* Personalise UI: Givin Succesful sign-up when user created account personalize UI/UX based on saved user information
+* Create NoSQL Database Schema
 
 ## User Story #3
 As a user I want to be able to evenly divide a cost amoung people so each one of my roommates pays their fair share no later then October 30, 2023.
