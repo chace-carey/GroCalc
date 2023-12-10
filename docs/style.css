@@ -1,0 +1,136 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgba(110,185,255);
+    background-color:  rgba(97, 97, 97, 1);
+    margin: 0 0 0 0;
+}
+
+div{
+    display: block;
+}
+
+#welcome-section{
+    height: 110vh;
+    width: 100%;
+}
+
+#welcome-header-contents{
+    position: relative;
+    top: 10%;
+    text-align: center;
+    margin-right: 195;
+    margin-left: 195;
+}
+
+#header {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 25 51 25 51;
+    border-bottom: 1px solid gray;
+    box-sizing: border-box;
+    z-index: 220;
+    width: 100%;
+    top: 0;
+    flex-grow: 0;
+    margin-bottom: 0;
+    height: 76px;
+    margin-bottom: var(--spacing-6);
+    min-height: var(--web-header-height);
+}
+
+#header-content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    font-size: 26;
+    justify-content: space-evenly;
+    
+}
+
+#info{
+    height: 110vh;
+}
+
+#information{
+    float: right;
+    position: relative;
+    height: 75%;
+    width: 48%;
+    font-size: 25;
+}
+
+#picture{
+    float: left;
+    position: relative;
+    height: 75%;
+    width: 48%;
+}
+
+#features{
+    height: 210vh;
+    align-items: center;
+}
+
+#demo{
+    height: 110vh;
+    justify-content: center;
+}
+
+#demo-contents{
+    position: relative;
+    top: 10%;
+    text-align: center;
+    margin-right: 195;
+    margin-left: 195;
+}
+
+.center-header{
+    text-align: center;
+}
+
+a{
+    color: rgba(110, 185, 255, 1);
+    text-decoration: none;
+}
+
+iframe{
+    border: 1px solid black;
+    background-color: rgba(110, 185, 255, 1);
+    overflow:auto;
+    padding-top: 50px;
+}
+
+table{
+    width:95%;
+    margin-left: 25px;
+    margin-right: 25px;
+    box-sizing: border-box;
+}
+
+td{
+    text-align: center;
+    vertical-align: top;
+    width: 250px;
+    background-color:rgba(110, 185, 255, 1) ;
+    color: rgba(97, 97, 97, 1);
+}
+
+td p{
+    font-size: 20px;
+}
+
+td h2{
+    font-size: 30px;
+}
+
+tr{
+    justify-content: space-evenly;
+}
+
+table, td{
+    border: solid black;
+    border-collapse: collapse;
+}
