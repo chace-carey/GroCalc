@@ -1052,7 +1052,7 @@
             "translatedName": "Image",
             "properties": {
                 "Picture": "grocalc-high-resolution-logo-transparent.png",
-                "resizeMode": "contain",
+                "resizeMode": "stretch",
                 "Height": 74,
                 "Width": 99,
                 "Visible": true,
