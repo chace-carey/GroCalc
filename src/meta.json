@@ -44,8 +44,8 @@
                     "createdAt": "2023-10-23T23:07:51.543Z",
                     "updatedAt": "2023-10-23T23:07:51.543Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f619ab2a4a21830baf2e5d/projects/6536d7d5a420ab2e7c692437/assets/6536fcc718798e4b39bb6e22?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231204%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231204T150821Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3bbe95299cd0d547127f4376c7c49d25fcf7042215c51c2a9f6fb8ef03b0133e3b78ebf549b6e0c6d7f4bd543b5810cdc2d57714fcb2677c67dbdfc539fb9bf83c6bba31b0126744da946a2a490bcae26df85005185a839dfb21dc410ab48c0861c00c00c5cc92fff56983e5e56c0285fb76646c44fc3a21f105d8f5bd7ddeeeaf2efbdb70e93ee35d234eae3c8a5673e1170e0a99ff981e2eff5b3c5b16e4af2d30b3e84a79c43618d1c5e3f36ccc2b5f4d1144aa11a4af56f895fc382595a514a71c8ff4b682c5811963cd126c477276eb82b66a60c9e26751929e986e4cf1089016ed598b8c03b67ce0df6ec2d8b11aa6bcc95e4212419e25efa3606f9361",
-                    "signedUrlExpirationTime": 1701875301129
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f619ab2a4a21830baf2e5d/projects/6536d7d5a420ab2e7c692437/assets/6536fcc718798e4b39bb6e22?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231217%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231217T200216Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=02b89e1930d3a0ddec02a6ecedc13e734baec11689920e8f224d1678787c0a16ad45496dabfda0656d1b82c21560880dc775048a58c8c95ec4d1f5f003594fa9b3d4108e3b61f7b4f9e64e6db5d1491172d8adb40f8679ebd4920d3258b3c61d17fb2fe08a48cf8e68746bfa03bfaa55ba3daa2a99ac3e3bbc1a316903ede7783bafffd4497addd972e2cc6a938d9473ebfaef08976c2f15065e595de8438fb8c8f483b64237350d98f4f8d18ad0cd56c81f6ab4ad935d304f37c39ca5b4cda597e55ced5984666a9c40955d3ed370c4e0b9115dcd43d96941a2e5030daf4e45dc2fdd8cb2aa98b48ddd76859f36f5f43e2b678904793b73fee8a62e375b5ada",
+                    "signedUrlExpirationTime": 1703016136426
                 },
                 "6552f495cf155d652ad802af": {
                     "externalStorageType": "GCS",
@@ -60,8 +60,8 @@
                     "createdAt": "2023-11-14T04:16:21.332Z",
                     "updatedAt": "2023-11-14T04:16:21.332Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e4f79e1206198303a399/projects/65369e24c5c507d66f32ea58/assets/6552f495cf155d652ad802af?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231204%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231204T150821Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2add9b829b6111cadcff04e6ec39ed92a658d6b51147c3161a6cd560b576439797db6bb571278a2d6b07a2006cd8b8311a2e102fa7e318d98874947e9c6721f9aaec182d63c2f1223661df9e9f8a3ee49a7972b88d4b3a23f7a9341c5d85ef08f00551ed852e1affb19780ea952d78f490cb3f9cb0bc4943ddee717148eada02d84f4e982f4ae41b74988768296a15a710612bb59944c6645c5d8e4f80e80d3c6ce67f73087f4b72920958252d24e890f98faca2ba579e44c8b8ae4f871d1ce0de68c9b08e3b7224abee09d0013d595d3844672721c293c9ae96c6f13b7bd5358f7cc0b571ac37632fe0674c2841ea5164fed34f65605904855d98f3214d174c",
-                    "signedUrlExpirationTime": 1701875301131
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e4f79e1206198303a399/projects/65369e24c5c507d66f32ea58/assets/6552f495cf155d652ad802af?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231217%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231217T200216Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3a789a7cf8592c450cf046de153ba5171f29a158bf1fa37056fa38b13ceb8359fc321343f29548c145fe458844a65a0cfd77641655880aa789fca73cfa2a3a4bb5da5d6445d56883e0a0f575b185bdcf1957f98a65d2209f4b13276ed4e57ba4d496858677db44242000f1b8dc4b9355698ca7327a4776b56ff9d265623b53410aece11f7fa743846ede3d5c088cffaf73889097218d4686e30689e35bcb257a242a717c5c3fb69a6dc67e2be30df4a040dce7a26bfbcfb5f14044fa0c840f89ef3f0dc7782604f244e8ee0d5bee7ed0582eb3c20c096c96058d1fb2bd3fe254fcaba5528c805eab529e321628bf6c0a5244c8edb6ce175290839b9d1259dd3b",
+                    "signedUrlExpirationTime": 1703016136429
                 },
                 "6552f4bb1fc11c410e409c97": {
                     "externalStorageType": "GCS",
@@ -76,8 +76,8 @@
                     "createdAt": "2023-11-14T04:16:59.809Z",
                     "updatedAt": "2023-11-14T04:16:59.809Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e4f79e1206198303a399/projects/65369e24c5c507d66f32ea58/assets/6552f4bb1fc11c410e409c97?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231204%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231204T150821Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0a0aeca692f4ac49e968a4db3b3ddfe7851d140c304a19f0473d3be107395a76fefc97411796f330842cbdca1eb0692983aa9c7981ffcdd28a9f97532d9c4b49e0ba2627e2b04542ebaa01a03911af522ce9ca08a6de95550f6b68719bb0d6542eb4394a9e84c05c35e15325c91da4df3b2915e2fa1c3891b75d12b0c1e098db12641967cd757808ad41e916c5452cd23991010e1441b046860998463f8f5293164449511e9897f05538dea687b5cef75142f3fb66fa0867d8bc5f86605234e08d78c74f7de392a9ddf977a117850710cd74e20e7e7abd3e9bdd80c0347ca726df1ecdb3f40555e99708432df30298c14de0f2b8468a9e621d7b3579c03d338e",
-                    "signedUrlExpirationTime": 1701875301133
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e4f79e1206198303a399/projects/65369e24c5c507d66f32ea58/assets/6552f4bb1fc11c410e409c97?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231217%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231217T200216Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8971a6c5d621f01cac5cb4655992631918516022bdbd742d0f29ba1d11f6ae95c721a5f68d489813693ea7a62ea708acdd9b0d914f8e0cee787b982704112fe0d60d2898299db03d21949d2b9bf8fd7ed176a031c9167d0740724d2d94a7f57092f56c2bdc648efd7d38fd56394f5d20209468332412ada97ff61148edf4e47593ce67ea5c3071070c6051c5d028e842e5824b1b7fc98728e4af2a2a96e4611b9667996a7143ff867f5c5c263b0b0fbf7c43c666c3f35c13390311d07aba4a38d939f2e205d1cc0e97a6b30f5ba502c92796ff15e9e5940a20c8a386ff434cc8bb7afc33f83dc0553e30eba4110c5f803436fad5c7a2da4a101d076dee913cdb",
+                    "signedUrlExpirationTime": 1703016136431
                 }
             },
             "backendUpgradeVersion": 23,
@@ -163,7 +163,17 @@
                         "iap": false
                     }
                 },
-                "45f28de7-52a8-4fed-a344-d452534dcf3c": {
+                "aa8f59e9-5227-41e2-a6f0-37f4c808a29b": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "e23974ea-6f55-4139-be88-d3d390240d8b": {
                     "xml": "",
                     "permissions": {
                         "android": [],
@@ -204,7 +214,10 @@
                         "id": "599e357d-1735-41c4-920f-7422aca01927"
                     },
                     {
-                        "id": "45f28de7-52a8-4fed-a344-d452534dcf3c"
+                        "id": "aa8f59e9-5227-41e2-a6f0-37f4c808a29b"
+                    },
+                    {
+                        "id": "e23974ea-6f55-4139-be88-d3d390240d8b"
                     }
                 ]
             },
@@ -528,6 +541,138 @@
                             "type": "LOCAL"
                         }
                     }
+                },
+                {
+                    "id": "079741a5-5a42-47d5-a947-064f05b53e97",
+                    "dataSource": {
+                        "id": "24a3ca9e-d336-4638-8507-2c17224423d0",
+                        "name": "costs",
+                        "owner": "64f9e4f79e1206198303a399",
+                        "collections": [
+                            {
+                                "id": "3b1cdb3e-d4c9-4d88-b332-07badaf675ec",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "fc299ef9-5d79-4483-a39c-1f8875b62c8d",
+                                        "name": "column1",
+                                        "label": "name",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "999bd5d9-4aa9-4fc7-b286-e03dd82a03a4",
+                                        "label": "roomateName",
+                                        "name": "roomatename",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "7f97c4b6-50c7-439a-b243-259925c7dd24",
+                                        "label": "roomateId",
+                                        "name": "roomateId",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "98a3601b-72db-478d-b386-fc2bc67b826f",
+                                        "label": "amount",
+                                        "name": "amount",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": []
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "c370f720-221f-4c46-a1ec-0974df9898ae",
+                            "name": "costs",
+                            "owner": "64f9e4f79e1206198303a399",
+                            "type": "LOCAL"
+                        }
+                    }
+                },
+                {
+                    "id": "77a787d7-8de5-46be-926c-aa1d9a0cb0a0",
+                    "dataSource": {
+                        "id": "f8da12e9-6bf5-4028-9067-264be29239ed",
+                        "name": "roomateTotals",
+                        "owner": "64f9e4f79e1206198303a399",
+                        "collections": [
+                            {
+                                "id": "19d4b600-fea1-4c37-bfa7-0995b44c870b",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "3ec31ff7-ae86-457d-bb49-5f964de8d8fd",
+                                        "name": "column1",
+                                        "label": "roomateName",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "06f3a96c-f8af-47eb-9485-519e11927f4b",
+                                        "label": "roomateId",
+                                        "name": "roomateId",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "0d49950c-1f24-4f66-8862-93a25d0adb82",
+                                        "label": "total",
+                                        "name": "total",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": []
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "441ae8cb-e6b3-465c-8df4-2a57dab0f029",
+                            "name": "roomateTotals",
+                            "owner": "64f9e4f79e1206198303a399",
+                            "type": "LOCAL"
+                        }
+                    }
+                },
+                {
+                    "id": "c6f17f5b-8679-4234-b77d-d1e6d558569b",
+                    "dataSource": {
+                        "id": "e90906f3-ee95-4c53-be50-05c83949dbc2",
+                        "name": "roomateBreakdown",
+                        "owner": "64f9e4f79e1206198303a399",
+                        "collections": [
+                            {
+                                "id": "617c4c72-97a9-4a7a-a886-b568ac289e8f",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "5b2bc7f4-0806-41c3-8643-534891966df5",
+                                        "name": "column2",
+                                        "label": "name",
+                                        "type": "NUMBER"
+                                    },
+                                    {
+                                        "id": "976cd69a-87e6-4816-b88a-5509509f75d5",
+                                        "label": "amount",
+                                        "name": "amount",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": []
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "2d2ca0a5-809b-40cd-b97b-eeb95b933270",
+                            "name": "roomateBreakdown",
+                            "owner": "64f9e4f79e1206198303a399",
+                            "type": "LOCAL"
+                        }
+                    }
                 }
             ],
             "customProperties": [],
@@ -601,6 +746,41 @@
                     "scope": "APP",
                     "name": "timeDifference",
                     "screenId": "e584be74-034e-40e2-8103-e3c783de5796"
+                },
+                "b2dfbebd-7f82-4d68-8e7c-32465c4d675e": {
+                    "scope": "APP",
+                    "name": "sum",
+                    "screenId": "aa8f59e9-5227-41e2-a6f0-37f4c808a29b"
+                },
+                "35a35c2c-a399-47eb-aa76-19cb6f685c5a": {
+                    "scope": "APP",
+                    "name": "price",
+                    "screenId": "aa8f59e9-5227-41e2-a6f0-37f4c808a29b"
+                },
+                "f99ff680-7938-4697-8bc6-97c60a9152ed": {
+                    "scope": "APP",
+                    "name": "qty",
+                    "screenId": "aa8f59e9-5227-41e2-a6f0-37f4c808a29b"
+                },
+                "563757c8-49e9-49d0-a1ff-0a23d8835477": {
+                    "scope": "APP",
+                    "name": "costRowIds",
+                    "screenId": "aa8f59e9-5227-41e2-a6f0-37f4c808a29b"
+                },
+                "e71394d8-6bff-45a4-8b3a-a01370740ef0": {
+                    "scope": "APP",
+                    "name": "adjustedNRoomates",
+                    "screenId": "aa8f59e9-5227-41e2-a6f0-37f4c808a29b"
+                },
+                "fbd2d00f-d9de-405d-8526-fa5099551371": {
+                    "scope": "STORED",
+                    "name": "itemRowIds",
+                    "screenId": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a"
+                },
+                "1332f6b9-1bc6-47d6-9889-9d3d645f0731": {
+                    "scope": "STORED",
+                    "name": "roomateToBreakDown",
+                    "screenId": "aa8f59e9-5227-41e2-a6f0-37f4c808a29b"
                 }
             },
             "defaultDesignerDevice": "PHONE",

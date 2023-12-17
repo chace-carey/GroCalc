@@ -309,14 +309,14 @@
             "translatedName": "Image",
             "properties": {
                 "Picture": "grocalc-high-resolution-logo-transparent.png",
-                "resizeMode": "contain",
-                "Height": 74,
-                "Width": 99,
+                "resizeMode": "stretch",
+                "Height": 94,
+                "Width": 105,
                 "Visible": true,
-                "X": 267,
-                "Y": 6,
-                "RelativeX": 267,
-                "RelativeY": 6,
+                "X": 264,
+                "Y": 7,
+                "RelativeX": 264,
+                "RelativeY": 7,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -343,7 +343,7 @@
                 "capInsets": {},
                 "ParentId": "e1a5237a-0b3b-40fd-b6fc-ef0bdf1eebc0",
                 "position": "absolute",
-                "edgeOffsets": 6
+                "edgeOffsets": 7
             },
             "children": [],
             "id": "a80c4cd6-5950-405b-9a8d-38da17685004",
