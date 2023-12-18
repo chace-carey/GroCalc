@@ -1,4 +1,5 @@
 {
+    "id": "54936a4f-86fd-4d52-a8dc-e4bc6963dedf",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -68,9 +69,9 @@
                 "Height": 53,
                 "Width": 182,
                 "Visible": true,
-                "X": 91,
+                "X": 96,
                 "Y": 383,
-                "RelativeX": 91,
+                "RelativeX": 96,
                 "RelativeY": 383,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -102,7 +103,7 @@
                 "Disabled": false,
                 "ParentId": "cad3758a-76a8-4a53-af85-09c3fdd6ff23",
                 "position": "absolute",
-                "edgeOffsets": 383.99999999999994
+                "edgeOffsets": 383
             },
             "children": [],
             "id": "8186332f-254e-4d25-902c-d510001ce5ff",
@@ -122,9 +123,9 @@
                 "Height": 65,
                 "Width": 202,
                 "Visible": true,
-                "X": 81,
+                "X": 87,
                 "Y": 589,
-                "RelativeX": 81,
+                "RelativeX": 87,
                 "RelativeY": 589,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -302,14 +303,14 @@
             "translatedName": "Image",
             "properties": {
                 "Picture": "grocalc-high-resolution-logo-transparent.png",
-                "resizeMode": "stretch",
-                "Height": 108,
-                "Width": 119,
+                "resizeMode": "contain",
+                "Height": 105,
+                "Width": 120,
                 "Visible": true,
                 "X": 250,
-                "Y": 6,
+                "Y": 10,
                 "RelativeX": 250,
-                "RelativeY": 6,
+                "RelativeY": 10,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -355,13 +356,13 @@
                 "LineHeight": 1,
                 "Color": "rgba(110, 185, 255, 1)",
                 "TextAlign": "left",
-                "Height": 109,
+                "Height": 105,
                 "Width": 245,
                 "Visible": true,
                 "X": 1,
-                "Y": 5,
+                "Y": 10,
                 "RelativeX": 1,
-                "RelativeY": 5,
+                "RelativeY": 10,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(110, 185, 255, 1)",
@@ -413,7 +414,6 @@
             "name": "forgotPassLabel"
         }
     ],
-    "id": "54936a4f-86fd-4d52-a8dc-e4bc6963dedf",
     "thunkableVersion": 436,
     "name": "forgotPaswordPage"
 }
