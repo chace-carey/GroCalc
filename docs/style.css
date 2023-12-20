@@ -10,7 +10,7 @@ div{
 }
 
 #welcome-section{
-    height: 110vh;
+    height: 100vh;
     width: 100%;
 }
 
@@ -51,7 +51,7 @@ div{
 }
 
 #info{
-    height: 110vh;
+    height: 100vh;
 }
 
 #information{
@@ -67,15 +67,16 @@ div{
     position: relative;
     height: 75%;
     width: 48%;
+    padding-left:20px
 }
 
 #features{
-    height: 210vh;
+    height: 525vh;
     align-items: center;
 }
 
 #demo{
-    height: 110vh;
+    height: 150vh;
     justify-content: center;
 }
 
@@ -103,9 +104,10 @@ iframe{
     padding-top: 50px;
 }
 
-table{
-    width:95%;
-    margin-left: 25px;
+#features table{
+    align-self: center;
+    width:75%;
+    margin-left: 12.5%;
     margin-right: 25px;
     box-sizing: border-box;
 }
@@ -113,7 +115,6 @@ table{
 td{
     text-align: center;
     vertical-align: top;
-    width: 250px;
     background-color:rgba(110, 185, 255, 1) ;
     color: rgba(97, 97, 97, 1);
 }
@@ -126,11 +127,46 @@ td h2{
     font-size: 30px;
 }
 
-tr{
-    justify-content: space-evenly;
-}
-
-table, td{
+table, tr{
     border: solid black;
     border-collapse: collapse;
+}
+
+table img{
+    height: 380;
+    width: 680;
+}
+
+#picture h1{
+    margin-top:75px;
+    margin-left: 295px;
+}
+
+#picture iframe{
+
+    margin-left: 150px;
+}
+
+#infotext{
+
+    margin-top: 175px;
+    margin-right: 150px;
+
+}
+
+#screenshots{
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    background-color: rgba(110, 185, 255, 1);
+    color:rgba(97, 97, 97, 1);
+    height: 200vh;
+}
+
+#screenshots h2{
+    margin-top: 100px;
+}
+
+#tablet img{
+    transform: rotate(180deg);
 }
